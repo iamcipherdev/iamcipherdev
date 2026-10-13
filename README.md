@@ -24,12 +24,12 @@
 
 | Project | Description |
 |---------|-------------|
-| 🛒 **ORDERLY** | WhatsApp ordering system for local businesses (172 commits, 17K+ LOC) |
-| ☪ **Hifazat** | Islamic content guard for Chromium browsers |
-| 🎫 **Stamply** | QR-powered digital loyalty platform |
-| 💒 **ShaadiSpot** | Wedding vendor marketplace for small cities |
-| 📱 **CycleSync** | Couple's period tracker with partner sync |
-| 🎮 **Khooni Mehndi** | Desi murder mystery game |
+| 🛒 [**ORDERLY**](https://orderlye.vercel.app/) | WhatsApp ordering system for local businesses — 172 commits, 17.7K LOC, live in production |
+| 🎓 [**Roots Academy Portal**](https://github.com/iamcipherdev/roots-academy-daska) | Live school portal + parent portal for Roots Academy Daska — paying client (Rs 15,000/yr) |
+| ☪ [**Pak AI**](https://github.com/iamcipherdev/pak-ai) | Islamic assistant: Quran lookup (Arabic + Urdu + English) + hadith search with citation-enforcing prompts — [live](https://iamcipherdev.github.io/pak-ai/) |
+| 🔒 [**JustUs**](https://github.com/iamcipherdev/justus) | Private P2P couple chat: WebRTC encrypted, PIN lock, view-once photos, zero persistence — [live](https://iamcipherdev.github.io/justus/) |
+| 🎬 [**CodeWrapped**](https://github.com/iamcipherdev/codewrapped) | Turns any public GitHub profile into a cinematic developer story |
+| 💒 [**ShaadiSpot**](https://github.com/iamcipherdev/shaadi-spot) | Wedding vendor marketplace for small cities — 55 real vendors seeded, [live](https://iamcipherdev.github.io/shaadi-spot/) |
 
 ---
 
