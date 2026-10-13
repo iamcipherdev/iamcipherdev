@@ -24,12 +24,12 @@
 
 | Project | Description |
 |---------|-------------|
-| 🛒 [**ORDERLY**](https://orderlye.vercel.app/) | WhatsApp ordering system for local businesses — 172 commits, 17.7K LOC, live in production |
-| 🎓 [**Roots Academy Portal**](https://github.com/iamcipherdev/roots-academy-daska) | Live school portal + parent portal for Roots Academy Daska — paying client (Rs 15,000/yr) |
-| ☪ [**Pak AI**](https://github.com/iamcipherdev/pak-ai) | Islamic assistant: Quran lookup (Arabic + Urdu + English) + hadith search with citation-enforcing prompts — [live](https://iamcipherdev.github.io/pak-ai/) |
-| 🔒 [**JustUs**](https://github.com/iamcipherdev/justus) | Private P2P couple chat: WebRTC encrypted, PIN lock, view-once photos, zero persistence — [live](https://iamcipherdev.github.io/justus/) |
-| 🎬 [**CodeWrapped**](https://github.com/iamcipherdev/codewrapped) | Turns any public GitHub profile into a cinematic developer story |
-| 💒 [**ShaadiSpot**](https://github.com/iamcipherdev/shaadi-spot) | Wedding vendor marketplace for small cities — 55 real vendors seeded, [live](https://iamcipherdev.github.io/shaadi-spot/) |
+| 🧠 [**Screenshot Brain**](https://github.com/iamcipherdev/screenshot-brain) | Your screenshots remember everything — on-device OCR, smart collections, grounded AI chat that cites them |
+| 🗂️ [**FileMind**](https://github.com/iamcipherdev/FileMind) | Offline-first file organizer: rule engine + local ONNX transformer — preview → approve → apply → undo, nothing leaves your PC |
+| 🤖 [**CIPHER**](https://github.com/iamcipherdev/CIPHER) | Local-first AI desktop agent for Windows (Tauri 2) — cloud AI, local Ollama, or zero-key commands, always behind a permission engine |
+| 🔍 [**chotu-agent**](https://github.com/iamcipherdev/chotu-agent) | Tiny honest browser-research agent in one Node.js file, zero dependencies |
+| 🛡️ [**LaunchGuard**](https://github.com/iamcipherdev/launchguard) | Deterministic website launch-readiness audits via real browser automation — web app, CLI, MCP server |
+| 🎥 [**MrRecorder**](https://github.com/iamcipherdev/mrrecorder) | Screen recorder with Urdu UI — silence remover, teleprompter, keyboard overlay, cursor spotlight |
 
 ---
 
